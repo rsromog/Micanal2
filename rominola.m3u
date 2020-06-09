@@ -71,33 +71,75 @@ http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/49307
 http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/49308
 #EXTINF:-1 tvg-id="" tvg-name="CL: TVN FHD*" tvg-logo="" group-title="Chile",CL: TVN FHD*
 http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/49309
-#EXTINF:-1 group-title="ASD Español",EsperanzaTv [SD]
-http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/index_1192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ASD Español",EsperanzaTv [HD]
-http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/master.m3u8
-#EXTINF:-1 group-title="ASD Español",3ABN Latino [SD]
-http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ASD Español",Nuevo Tiempo [SD]
-rtsp://stream.novotempo.com:1935/tv/tvnuevotiempo.stream
-#EXTINF:-1 group-title="ASD Español",llbn latino [SD]
-rtmp://cp45648.live.edgefcs.net/live/T01587-latino@94847
-#EXTINF:-1 group-title="ASD Español",Red Advenir [SD]
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1 group-title="ASD Español",Alfa tv [SD]
-http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
-#EXTINF:-1 group-title="ASD Ingles",3ABN [SD]
-http://moiptvus-lh.akamaihd.net/i/moiptv1_1@303632/master.m3u8
-#EXTINF:-1 group-title="ASD Ingles",3ABN International [SD]
-http://moiptvus-lh.akamaihd.net/i/moiptv8_1@310133/master.m3u8
-#EXTINF:-1 group-title="ASD Ingles",3ABN Proclaim [SD]
-http://moiptvus-lh.akamaihd.net/i/moiptv3_1@304498/master.m3u8
-#EXTINF:-1 group-title="ASD Ingles",3ABN Kids
-http://moiptvus-lh.akamaihd.net/i/moiptv5_1@304500/master.m3u8
-#EXTINF:-1 group-title="ASD Ingles",HopeChannel [HD]
-http://bcliveuniv-lh.akamaihd.net/i/HopeChannel_1@182961/master.m3u8
-#EXTINF:-1 group-title="ASD Ingles",Hope Church Channel [HD]
-http://bcliveuniv-lh.akamaihd.net/i/HopeChurch_1@193089/master.m3u8
-#EXTINF:-1 group-title="ASD Ingles",Smart Lifestile tv
-rtmp://cp45648.live.edgefcs.net/live/T01587-6@72807
-#EXTINF:-1 group-title="Musica",Plantio del señor
-http://173.243.114.139:1935/8606/8606/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD (E) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/animalp.png" group-title="Latinos Dual Audio (E)",Animal Planet SD (E) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35194
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD (E) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/animalp.png" group-title="Latinos Dual Audio (E)",Animal Planet FHD (E) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35195
+#EXTINF:-1 tvg-id="" tvg-name="History Channel SD (E)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/history.png" group-title="Latinos Dual Audio (E)",History Channel SD (E)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35196
+#EXTINF:-1 tvg-id="" tvg-name="History Channel FHD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/history.png" group-title="Latinos Dual Audio (E)",History Channel FHD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35197
+#EXTINF:-1 tvg-id="" tvg-name="History 2  SD (E)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/h2.png" group-title="Latinos Dual Audio (E)",History 2  SD (E)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35198
+#EXTINF:-1 tvg-id="" tvg-name="Hola! TV FHD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/holatv.png" group-title="Latinos Dual Audio (E)",Hola! TV FHD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35199
+#EXTINF:-1 tvg-id="" tvg-name="Glitz SD (E)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/glitz.png" group-title="Latinos Dual Audio (E)",Glitz SD (E)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35200
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD (E)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/e.png" group-title="Latinos Dual Audio (E)",E! Entertainment FHD (E)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35201
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science SD (E)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/discoverys.png" group-title="Latinos Dual Audio (E)",Discovery Science SD (E)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35202
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD (E) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/discovery.png" group-title="Latinos Dual Audio (E)",Discovery Channel SD (E) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35203
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/discovery.png" group-title="Latinos Dual Audio (E)",Discovery Channel FHD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35204
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/discoveryhh.png" group-title="Latinos Dual Audio (E)",Discovery H&H FHD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35205
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/theater.png" group-title="Latinos Dual Audio (E)",Discovery Theater FHD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35206
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/world.png" group-title="Latinos Dual Audio (E)",Discovery World FHD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35207
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/id.png" group-title="Latinos Dual Audio (E)",Investigation Discovery SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35208
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery  FHD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/id.png" group-title="Latinos Dual Audio (E)",Investigation Discovery  FHD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35209
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/natgeo.png" group-title="Latinos Dual Audio (E)",National Geographic SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35210
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/natgeo.png" group-title="Latinos Dual Audio (E)",National Geographic FHD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35211
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/natgeowild.png" group-title="Latinos Dual Audio (E)",Nat Geo Wild SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35212
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD (E) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/natgeowild.png" group-title="Latinos Dual Audio (E)",Nat Geo Wild FHD (E) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35213
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo SD (E)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/zoomoo.png" group-title="Latinos Dual Audio (E)",Zoomoo SD (E)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35214
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids SD (E) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/natkids.png" group-title="Latinos Dual Audio (E)",Nat Geo Kids SD (E) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35215
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/babytv.png" group-title="Latinos Dual Audio (E)",Baby TV SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35216
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/tooncast.png" group-title="Latinos Dual Audio (E)",Tooncast SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35217
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/boomerang.png" group-title="Latinos Dual Audio (E)",Boomerang SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35218
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/dk.png" group-title="Latinos Dual Audio (E)",Discovery Kids SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35219
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/dk.png" group-title="Latinos Dual Audio (E)",Discovery Kids FHD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35220
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/cn.png" group-title="Latinos Dual Audio (E)",Cartoon Network SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35221
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/cn.png" group-title="Latinos Dual Audio (E)",Cartoon Network FHD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35222
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/nick.png" group-title="Latinos Dual Audio (E)",Nickelodeon SD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35223
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/nick.png" group-title="Latinos Dual Audio (E)",Nickelodeon FHD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35224
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 FHD (Dual)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/nick2.png" group-title="Latinos Dual Audio (E)",Nick 2 FHD (Dual)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35225
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR SD (E)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/nickjr.png" group-title="Latinos Dual Audio (E)",Nick JR SD (E)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35226
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD (E) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/dc.png" group-title="Latinos Dual Audio (E)",Disney Channel SD (E) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35227
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/dc.png" group-title="Latinos Dual Audio (E)",Disney Channel FHD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35228
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior SD (Dual) (CL)" tvg-logo="http://89.187.170.146:25468/logos/dualaudio/dj.png" group-title="Latinos Dual Audio (E)",Disney Junior SD (Dual) (CL)
+http://tvcl.xyz:80/okckbsmj/i98Pk31kLd/35229
